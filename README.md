@@ -1,7 +1,7 @@
 # LHC Simplified Particle Collision Simulator
 
 A simplified Monte Carlo simulation of proton–proton collisions at the Large Hadron
-Collider (LHC), written in Python. It "collides" two protons over and over,
+Collider (LHC), LASPOS (**L**arge h**A**dron collider **S**implified **P**article c**O**llision **S**imulator) written in Python. It "collides" two protons over and over,
 invents a physically valid set of outgoing particles for each collision, filters
 them through a simplified detector, and saves the survivors to a text file that
 we then turn into histograms.
